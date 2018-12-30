@@ -1,4 +1,4 @@
 # PlantsVsZombies
-My Own Clone of Plants VS Zombies Game Using Java
+It's the final project of my Java Programming course.
 
 ![Alt text](/../master/pvz.png?raw=true "Screenshot")
